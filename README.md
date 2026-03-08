@@ -5,6 +5,10 @@ This project focuses on analyzing e-commerce sales data and presenting insights 
 The objective is to extract meaningful business insights related to sales performance, product trends, and regional analysis.
 
 ---
+## Interactive Dashboard
+[**View Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNmRiZmU4MGUtMmQyNC00ZjIzLWI2ZjQtMTE1ODA1ODQzYWJlIiwidCI6IjYyNGQ1YzRiLTQ1YzUtNDEyMi04Y2QwLTQ0ZjBmODRlOTQ1ZCJ9)
+
+
 
 ## Objectives
 - Analyze overall sales and revenue performance

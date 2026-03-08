@@ -6,7 +6,8 @@ The objective is to extract meaningful business insights related to sales perfor
 
 ---
 ## Interactive Dashboard
-[**View Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMzc1YjQ5ODYtYjdjOC00MmUzLThjMzUtMTRhNzVhNGRmOTljIiwidCI6IjYyNGQ1YzRiLTQ1YzUtNDEyMi04Y2QwLTQ0ZjBmODRlOTQ1ZCJ9)
+[**View Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNmRiZmU4MGUtMmQyNC00ZjIzLWI2ZjQtMTE1ODA1ODQzYWJlIiwidCI6IjYyNGQ1YzRiLTQ1YzUtNDEyMi04Y2QwLTQ0ZjBmODRlOTQ1ZCJ9)
+
 
 
 
